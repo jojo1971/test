@@ -1,3 +1,7 @@
 sans modif
 modif sam2
+<<<<<<< HEAD
 modif sans poussé, avec juste commit
+=======
+modif avec poussée Sam1
+>>>>>>> b62c74a7e99975748fa108cda43c1b0796a6e853
